@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-  "xtool"
+  "xtcore",
+  "zip_convert",
 ]

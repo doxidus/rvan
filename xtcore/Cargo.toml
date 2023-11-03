@@ -1,5 +1,5 @@
 [package]
-name = "xtool"
+name = "xtcore"
 version = "0.1.0"
 edition = "2021"
 
